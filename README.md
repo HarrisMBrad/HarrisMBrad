@@ -5,15 +5,12 @@
  👯 I’m looking to collaborate on web development and mobile applications.
 
  💬 Ask me about my projects as I would love to answer any questions concerning them and their state. 
- 📫 9311 Orange Grove Drive 
-     Apt 401 
-     Davie, FL 33324
      954.817.3900
-     bmichaelh13@gmail.com
+     brforeal@gmail.com
 
 
  😄 Pronouns: He/Him
- ⚡ I've been on-line for 110 consecutive days using these skills.
+ ⚡ Ready to go for hire and development: 
  
                     Android/iOS apps
                     FireBase Database
