@@ -1,11 +1,11 @@
 ### Resume 
 
 Brad M. Harris 
-9311 Orange Grove Drive Apt 401 
-brforeal@gmail.com
-954.817.3900
-About Me
-🔭 I’m currently working on finding jobs.
+For inquries write: brforeal@gmail.com
+Cell: 954.817.3900
+🔭 I’m currently working on training for React Development. 
+
+
 
 
 
