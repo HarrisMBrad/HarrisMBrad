@@ -24,7 +24,7 @@ Residing Natively on my Phone for demo.
 #HarrisMBrad - MyRecyclerView1 | Android Mobile App | https://github.com/HarrisMBrad/MyRecyclerView1
 03-30-2020 - actively maintained at API 28 Tar 30. Toasted List Containers for buildout. Java.
 
-#HarrisMBrad - Rolodx React App | https://harrismbrad.github.io/rolodex/
+#HarrisMBrad - Rolodex React App | https://harrismbrad.github.io/rolodex/
 02-24-2021 - A Container of cards that jumpout and display the users data from an API for demo.
 Features searchbox that updates with state.
 
