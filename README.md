@@ -28,9 +28,8 @@ Residing Natively on my Phone for demo.
 02-24-2021 - A Container of cards that jumpout and display the users data from an API for demo.
 Features searchbox that updates with state.
 
-#HarrisMBrad - Tweeter Sweeter App | https://harrismbrad.github.io/sweeter-tweeter/ 
-03/15/2021 - Useres select their mood in colors to then use in choosing a quotable quote. The user can then share this quote with author notation on their Twitter account.
-JavaScript, React
+#HarriMBrad - Tweeter Sweeter App | https://harrismbrad.github.io/sweeter-tweeter/ 
+03-15-2021 - The user can then share this quote with the author notation on their Twitter account. JavaScript, React
 
 ================
 
