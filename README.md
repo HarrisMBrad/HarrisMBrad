@@ -1,11 +1,5 @@
-#Resume 
-For inquires write brforeal@gmail.com Cell: 954.817.3900 
-🔭 I’m currently working on React Development.
-
-##Software Developer
-JavaScript, Mobile & Web Dev. | Full Stack, BitBucket, Jira & React.
-HarrisMBrad, Git-hub | Mac, and PC Windows environments. Utilizing Agile Scrum on a daily
-schedule.
+# Pull Request  
+I started this repository as a student and these projects are basic starting points from which other students can fork, clone or make/sugest requsts while demonstating cooperation and team work. This is just a partial list of projects. Note that you may need to use Android Studio Emulator to run the mobile apps seen here. 
 
 ##HarrisMBrad - tryMe | Android Mobile App | https://github.com/HarrisMBrad/tryMe
 03-14-2020 - actively maintained full stack/custom glossy button when clicked change the 8
@@ -30,52 +24,18 @@ Features search box that updates with the state.
 
 ##HarriMBrad - Tweeter Sweeter App | https://harrismbrad.github.io/sweeter-tweeter/ 
 03-15-2021 - The user can then share this quote with the author notation on their Twitter account. JavaScript, React
+## Description 
 
-================
-
-##SKILLS: 
-●	Jira/Confluence
-●	Firebase Database
-●	WordPress 
-●	Bootstrap   
-●	Git-Hub 
-●	Agile/Sprints 
-●	SEO 
-●	JavaScript, JSX
-●	HTML5
-●	Java 
-●	React/Redux
-●	GraphQL 
-●	PostgreSQL
-
-#EXPERIENCE: 
- ##CardioFlex Therapy - Davie, FL 				         July 2019 to Sept. 2019
-Social Media Manager 
-●	Web development 
-●	Editing and correcting previous data from 2013 to the present
-●	Using Twitter and Instagram platforms to content regarding health and therapy
-
- ##Videography on the Fly - Davie, FL 			  January 2017 to December 2018 
-Former Chief Operating Officer and Sole Proprietor 
-●	Custom Methods Marketing 
-●	Original Content Creator 
-●	Producer
-●	Portrait photography
-●	Custom-made for digital social media platforms. 
-●	Production imaging and enhancement utilizing Photoshop 
-●	Light Room and Adobe applications 
-  ##J. Sugarman Auction Corp. - Hollywood, FL      May 2014 to October 2016 
-Social Media Management 
-●	Create advertisement content and maintain social media platforms. 
-●	Oversee the company's website and monitor activity 
-●	Utilize original content via photography using Nikon Digital Camera and equipment Create labels and ship inventory purchases regularly. 
+Include a description of what has been changed and include relavant motivation and context. If needed, ensure to list all dependencies that are required for this change. 
 
 
+Fix # (issue)
 
-#EDUCATION
-IBG Institute, 2019 to present. | Full Stack Software Development. Emphasis on trending
-development needs in the Software Development Process World Wide.
-High School Graduate, Stillwater Pioneers High School, Stillwater, OK | 1997
+## Type of Change
 
-#HOBBIES
-Running, Biking, Photography
+Please delete options that are not relavant. 
+
+ - [ ] Bug fix (non-breacking change which fixes an issue).
+ - [ ] New feature (non-breaking change which adds functionality or value to the projects owner(s)). 
+ - [ ] Breaking change (fix or feature that would cause existing funcionality to not work as expected).
+ - [ ] This change requires a documentation update.
