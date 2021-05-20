@@ -1,3 +1,8 @@
+HarrisMBrad-feature/dev-1
+### Updates 
+For inquires write brforeal@gmail.com Cell: 954.817.3900 
+🔭 I’m currently working on Development.
+
 # Thanks for visiting! 
 
 I started this repository as a student and these projects are basic starting points from which other students can fork, clone or make/sugest requsts while demonstating cooperation and team work. This is just a partial list of projects. Note that you may need to use Android Studio Emulator to run the mobile apps seen here. 
@@ -37,6 +42,7 @@ Fix # (issue)
 ## Type of Change
 
 Please delete options that are not relavant. 
+
 
  - [ ] Bug fix (non-breacking change which fixes an issue).
  - [ ] New feature (non-breaking change which adds functionality or value to the projects owner(s)). 
